@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jo-tan
 - 🌱 I’m currently learning C @ 42 Paris
 
-About the common folders in repos:
-Practice : the older works
-Pseudocode : the text file of how I break down the program/function into steps
+About the common folders in repos: \n
+Practice : the older works\n
+Pseudocode : the text file of how I break down the program/function into steps\n
 
 <!--- 👀 I’m interested in ...--->
 <!--- 💞️ I’m looking to collaborate on ...--->
