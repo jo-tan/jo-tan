@@ -20,7 +20,7 @@ Working knowledge:
 - some persenal side projects
 
 ## End notes
-Still deepening my knowledge with all the tools I learn so far.<br/>
+Still deepening my knowledge with all the tools I have learned so far.<br/>
 Not a genius, but I can be better than I was yerterday. C:
 
 <!--- 👀 I’m interested in ...--->
