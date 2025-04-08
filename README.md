@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @jo-tan
-- 🌱 I’m currently learning C @ 42 Paris
+<h1>Hi visitor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" /></h1>
 
-About the common folders in repos:<br />
-Practice : the older works<br />
-Pseudocode : the text file of how I break down the program/function into steps<br />
+## About
+- A student @ 42 Paris (Advance: Post common core)
+- Interested in full stack
+
+## Language
+Advance:
+- C
+
+Working knowledge:
+- python
+- JavaScript
+- C++
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-tan&theme=tokyonight)
+
+## The projects
+- 42 common core projects
+- some persenal side projects
+
+## End notes
+Still deepening my knowledge with all the tools I learn so far.<br/>
+Not a genius, but I can be better than I was yerterday. C:
 
 <!--- 👀 I’m interested in ...--->
 <!--- 💞️ I’m looking to collaborate on ...--->
