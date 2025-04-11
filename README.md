@@ -13,7 +13,7 @@ Working knowledge:
 - JavaScript
 - C++
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-tan&theme=tokyonight?cb=latest)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-tan&theme=tokyonight&cb=latest)
 
 ## The projects
 - 42 common core projects
